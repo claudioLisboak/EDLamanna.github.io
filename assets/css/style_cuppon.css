@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.card-title {
+  font-weight: 500;
+  font-size: 20pt;
+}
+
+.card-text {
+  font-weight: 300;
+  font-size: 16pt;
+}
+
+.custom-card-text {
+    font-weight: 300;
+    font-size: 13pt;
+  }
+
+.text-h4 {
+  font-weight: 500;
+  font-size: 21pt;
+}

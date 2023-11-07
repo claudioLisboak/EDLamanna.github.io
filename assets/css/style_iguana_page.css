@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: "Raleway", sans-serif;
+}
+
+header img {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  padding: 10px;
+  font-weight: normal;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.introdu1 p {
+  width: 85%;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+.iguana-verde {
+  width: 40%;
+}
+
+.specification {
+  background-color: #1e1a13;
+  padding: 50px;
+}
+
+.specification h2 {
+  font-size: 40px;
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
+.card {
+  text-align: center;
+  font-size: 24px;
+  font-weight: lighter;
+}
+
+i {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.gimg {
+  padding: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.imgreel img {
+  width: 17em;
+  height: 10em;
+}
+
+footer {
+  background-color: #1e1a13;
+  font-weight: lighter;
+  text-align: center;
+  padding: 55px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
