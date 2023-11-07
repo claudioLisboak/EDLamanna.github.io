@@ -1,0 +1,47 @@
+header{
+    background-image: url(../img/logo_cabecera.png);
+    background-size: cover;
+    background-position:center;
+    height: 8em;
+    padding-top: 15px;
+    padding-right: 40px;
+    font-size: 1.6em;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 span{
+    font-weight:100;
+}
+
+header h1{
+    text-align:right;
+    color: white;
+}
+
+header p{
+    text-align:right;
+    margin-top: -30px;
+    color: white;
+}
+
+main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+}
+
+main table{
+    margin-left: 10em;
+    margin-right: 10em;
+    border-spacing: 3em;
+}
+
+main table p{
+    text-align: justify;
+}
+
+footer{
+    background: linear-gradient(to right, rgb(45, 45, 145),rgb(3, 3, 77));
+    color: white;
+    padding: 1em;
+}
