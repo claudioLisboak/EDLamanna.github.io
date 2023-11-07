@@ -26,3 +26,7 @@ body {
 .custom-bag{
     background-color: rgb(79, 78, 78)
 }
+
+ul {
+    list-style-type: none;
+  }
