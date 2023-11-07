@@ -8,3 +8,21 @@ body {
     background-size: cover;
     background-position: left;
   }
+
+.img{
+    width: 18em;
+}
+
+.custom-imgp{
+    height: 20em;
+
+}
+
+.custom-logounv{
+    height: 20em;
+    padding: 2em;
+}
+
+.custom-bag{
+    background-color: rgb(79, 78, 78)
+}
