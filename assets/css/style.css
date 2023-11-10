@@ -28,7 +28,9 @@ body {
 }
 
 .custom-bag{
-    background-color: rgb(79, 78, 78)
+    background: linear-gradient(rgb(79, 79, 78), rgb(43, 42, 42));
+    border-radius: 0em 9em 9em 0em;
+    margin-bottom: 2em;
 }
 
   .card-title a {
@@ -39,4 +41,10 @@ body {
 
 ul {
     list-style-type: none;
+  }
+
+  .custom-footer{
+    background: linear-gradient(rgb(101, 101, 101), rgb(55, 54, 54));
+    padding: 2em;
+    color: white;
   }
